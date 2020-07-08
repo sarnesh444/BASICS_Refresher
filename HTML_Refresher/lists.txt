@@ -1,0 +1,17 @@
+<ul> unordered list 
+
+<li> list item 
+
+<ol type="" > ordered list 
+
+type="" - type of ordering
+eg.type="A" - upper case ordering starts with  A 
+type="a" - lowercase ordering 
+type="I" - roman numerals
+type="i" - lower case roman 
+
+<dl> description list 
+
+<dt> description term 
+
+<dd> description of the item 

@@ -1,0 +1,30 @@
+IMAGES 
+
+<img src="cat.jpg" alt="cat" width=100 height=66 > - is used to embed an image 
+
+src="" location of the image 
+alt="" gives the alternate text if the image is not found 
+width & height- can be used to resize the image 
+
+
+============================================================================
+VIDEOS 
+
+<video src="tutorial.mp4" controls poster="display.jpg" autoplay loop>Text</video>
+ 
+can be used to embed a video from the sys
+
+Text - if the video fails to showup this text will be displayed 
+src="" location of the video 
+controls - can be used to play/pause/full screen/foward the video - if not specified video shall not play 
+poster="" -enables us to give a thumbnail to the video 
+autoplay - plays the video automatically 
+loop - repeats the video on completion 
+
+============================================================================
+EMBEDING A YOUTUBE VIDEO
+
+* go to the video
+* click on share 
+* click on embed 
+* copy paste the <iframe> code into the html file 

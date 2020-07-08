@@ -1,0 +1,7 @@
+iframe - used to embed another website into yours
+
+<iframe src="www.google.com">Text</iframe>
+
+src="" - link to the website 
+text - if the webpage cant be loaded 
+frameborder="0"  - removes the border of the website 

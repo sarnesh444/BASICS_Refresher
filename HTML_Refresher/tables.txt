@@ -1,0 +1,22 @@
+structure:
+<table>
+    <caption></caption>
+    <tr>
+    <th></th>
+    </tr>
+    <tr>
+        <td> </td>
+    </tr>
+</table>
+
+<table> 
+
+<tr> - table row , denotes a row in the table 
+
+<td> - data in a row 
+
+<th> - table header: col names
+
+<caption> - heading of the table 
+
+colspan - specifies how many cols the data should take up 

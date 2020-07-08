@@ -1,0 +1,24 @@
+<meta> - is used to enter meta data eg. charset="UTF-8"
+<title> - used to give the title to the webpage
+
+
+BODY TAGS
+<h1>-<h6> - headings 
+<p> - paragraph 
+<b> - bold
+<i> - italic
+<br> - break
+<hr> - horizontal line 
+<big> - enlarges the text
+<small> - shrinks the text
+<sub> - subscript
+<sup> - superscript
+
+
+LINKS
+
+<a href="link to navigate the user" target="_blank">
+target="_blank" - makes sure that the link is opened in a new tab and does not move away from the cur page 
+
+to link to other pages on the website use relative url mapping 
+

@@ -1,0 +1,20 @@
+<input type="" name="" value="">
+
+type can be 
+* text 
+* password 
+* text area 
+* date - gives a calendar widget to input date  
+* file - upload a file 
+* range - slider 
+* checkbox 
+* radio - if two radio button have same name then only one can be clicked 
+* submit 
+
+
+value="" - default value 
+
+name ="" - id to ref later 
+
+
+<form> - wrapper for input tags 

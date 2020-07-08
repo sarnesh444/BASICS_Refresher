@@ -1,0 +1,8 @@
+div,span - a container , a container to hold other tags 
+in html it is a set of tags that wraps other tags 
+
+block - elements take up the entire space on the page ,cannot be next to each other eg.<p> forces the next element to go below it 
+inline - elements take only space as much as they need,can be next to each other eg.<a>
+
+div- block containers 
+span- inline containers 

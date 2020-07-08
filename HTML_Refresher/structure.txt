@@ -1,0 +1,19 @@
+<html> - all the code is enclosed within these tags
+
+head section - data about document eg.title, import resoucres like css ,metadata
+
+body section - all the contents of web page will be rendered from here
+
+=========================================================================
+
+Does not enhance the look and feel of the website but makes it more readable 
+
+<header> - for something like a nav bar
+
+<main>- main content
+
+<footer>- footer of the website
+
+<section> - a part of the code
+
+<aside> - side content
